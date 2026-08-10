@@ -1,6 +1,6 @@
 # Daniyal Hameedi: Independent Researcher.
 
-Daniyal Ali Hameedi is an Independent Researcher in Applied Mathematics and Theoretical Physics, and holds a Masters Degree in the latter. Present interests include the representation theory of the cubic sensor's infinite dimensional estimation algebra, as well as any application of Group and Representation Theory to problems in applied mathematics. Reachable via email at Daniyal.hameedi@outlook.com.
+Daniyal Ali Hameedi is an Independent Researcher in Applied Mathematics and Theoretical Physics, and holds a Masters Degree in the latter. Present interests include the representation theory of the cubic sensor's infinite dimensional estimation algebra, as well as any application of Group and Representation Theory to problems in applied mathematics. Open to collaboration on projects, and reachable via email at Daniyal.hameedi@outlook.com.
 
 ## The Cubic Sensor Project:
 
