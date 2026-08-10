@@ -12,5 +12,5 @@ The Markov Switching Multifractal Model of Asset Returns has been proven to outp
 
 ## Masters Thesis: 
 Regular and Logarithmic Conformal Invariance in Polymer Gelation. Explored a naive LogCFT extension of the trivial $c=0$ percolation model leading to an incredibly rich structure with no finite operator product expansion. For those wishing to inspect this document, it has remained largely unedited since final submission and so contains a few grammatical, syntactic and spelling errors roughly commensurate with the difficulty of preparing the document for submission alongside preparation for final exams.
-[Read the paper (PDF)](papers/THESIS.pdf)
+[Read the paper (PDF)](THESIS.pdf)
 
