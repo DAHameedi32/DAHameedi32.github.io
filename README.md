@@ -11,5 +11,5 @@ The Brockett-Mitter-Yau program of Estimation Algebras seeks to find so-called f
 The Markov Switching Multifractal Model of Asset Returns has been proven to outperform other more standard volatility models at both in and out of sample forecasting, yet these models remain difficult to run due to their high-dimensional state-space making filtering and state-inference expensive. However by permutation symmetry in the product emmission structure of the model, we can reduce this dimensionality by defining equivalence classes over state occupation number.
 
 ## Masters Thesis: 
-Regular and Logarithmic Conformal Invariance in Polymer Gelation. Explored a naive LogCFT extension of the trivial $c=0$ percolation model leading to an incredibly rich structure with no finite operator product expansion.
+Regular and Logarithmic Conformal Invariance in Polymer Gelation. Explored a naive LogCFT extension of the trivial $c=0$ percolation model leading to an incredibly rich structure with no finite operator product expansion. For those wishing to inspect this document, it has remained largely unedited since final submission and so contains a few grammatical, syntactic and spelling errors roughly commensurate with the difficulty of preparing the document for submission alongside preparation for final exams.
 
