@@ -1,8 +1,18 @@
 # Daniyal Hameedi: Independent Researcher.
 
-Daniyal Ali Hameedi is an Independent Researcher in Applied Mathematics and Theoretical Physics, and holds a Masters Degree in the latter from King's College London. Present interests include the representation theory of the cubic sensor's infinite dimensional estimation algebra, as well as any application of Group and Representation Theory to problems in applied mathematics and theoretical physics. Open to collaboration on projects, and reachable via email at Daniyal.hameedi@outlook.com.
+Daniyal Ali Hameedi is an Independent Researcher in Applied Mathematics and Theoretical Physics, and holds a Masters Degree in the latter from King's College London. Present interests include AI Safety, where I have become interested in multi-agent dynamics after various interesting discussions during the Iliad Intensive Course. More conventionally, I am also interested in the representation theory of the cubic sensor's infinite dimensional estimation algebra. I am open to collaboration on projects, and reachable via email at Daniyal.hameedi@outlook.com.
 
-CV here: [CV](papers/DAH_CV_September_2026.pdf)
+CV here: [CV](papers/DAH_CV_November_2026.pdf)
+
+## Multi-Agent Dynamics and AI Safety
+
+"We are like chameleons, we take our hue and the color of our moral character, from those who are around us." - John Locke.
+
+AI Agents know when they are undergoing evaluations, and change their behaviours to mask misalignment accordingly. We hypothesize that collective observables of an Agent Swarm may be less sensitive to the evaluation awareness of its individual agents. As misalignment spreads throughout a network, we investigate whether the collective swarm could exhibit collective scaling phenomena as a statistical-mechanical system.
+
+This research proposal and program was synthesized over the course of many productive discussions with class-mates at the Iliad Intensive course.
+
+[Read the proposal (PDF)](papers/Statistical-Mechanical and Predictive Diagnostics for Swarm Misalignment.pdf)
 
 ## The Cubic Sensor Project:
 
