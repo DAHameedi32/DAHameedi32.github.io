@@ -12,7 +12,7 @@ AI Agents know when they are undergoing evaluations, and change their behaviours
 
 This research proposal and program was synthesized over the course of many productive discussions with class-mates at the Iliad Intensive course.
 
-[Read the proposal (PDF)](papers/Statistical-Mechanical and Predictive Diagnostics for Swarm Misalignment.pdf)
+[Read the proposal (PDF)](papers/Statistical_Mechanical_and_Predictive_Diagnostics_for_Swarm_Misalignment.pdf)
 
 ## The Cubic Sensor Project:
 
